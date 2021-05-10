@@ -64,7 +64,7 @@
     "electron-updater": "^4.0.6",
     "esm": "^3.2.25",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "minicap": "^0.2.1-0",
     "minicap-prebuilt": "^2.3.0",
     "minitouch-prebuilt": "^1.2.0",
