@@ -93,7 +93,7 @@
     "release": "^5.0.3",
     "release-it": "^10.1.0",
     "standard-version": "^4.4.0",
-    "umi": "2.13.3",
+    "umi": "4.0.41",
     "umi-plugin-react": "^1.15.8",
     "wait-on": "^3.2.0"
   }
